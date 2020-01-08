@@ -22,13 +22,9 @@
 
 * 사이트의 문제 고유 url 주소를 사용한다
 
-  1. 백준 : **/problem_{문제번호}**
-
-  2. 프로그래머스 : **/lessons_{문제번호}**
-
-  3. leetcode : 릿코드는 문제 고유 url이  https://leetcode.com/problems/two-sum/ 이기 때문에 `-` 을 `_` 형태로 바꿔서 생성 -> **/two_sum**
-
-     
+  * 백준 : **/problem_{문제번호}**
+  * 프로그래머스 : **/lessons_{문제번호}**
+  *leetcode : 릿코드는 문제 고유 url이  https://leetcode.com/problems/two-sum/ 이기 때문에 `-` 을 `_` 형태로 바꿔서 생성 -> **/two_sum**
 
 * 그 외 기타 사이트는 협의 하에 진행
 

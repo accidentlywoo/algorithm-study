@@ -45,10 +45,7 @@
 
 ## ★벌금러 목록★
 
-
-
-
-
+sooragenius : 1000원 (2020 / 01 3회차[2, 3])
 
 
 
@@ -56,15 +53,30 @@
 # 문제목록
 
 
+## 2020 / 02
+
+### 1회차 (출제자 : sup2is)
+
+1. https://www.acmicpc.net/problem/1439
+2. https://www.acmicpc.net/problem/1343
+3. https://www.acmicpc.net/problem/1758
+4. https://www.acmicpc.net/problem/2012
+
 
 ## 2020 / 01
+
+### 4회차 (출제자 : sup2is)
+
+1. https://leetcode.com/problems/path-sum-ii/
+2. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+3. https://leetcode.com/problems/gas-station/
+
 
 ### 3회차 (출제자 : sup2is)
 
 1. https://leetcode.com/problems/container-with-most-water/
 2. https://www.acmicpc.net/problem/1182
 3. https://www.acmicpc.net/problem/2206
-
 
 
 ### 2회차 (출제자 : sup2is(1, 2), ohgillwhan(3)) 
